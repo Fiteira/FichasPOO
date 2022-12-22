@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1663854204 source:c:\users\fmorgado\desktop\t1_22_09_2022\src\veiculo.cpp
+	"Veiculo.h"
+
+1663854345 c:\users\fmorgado\desktop\t1_22_09_2022\include\veiculo.h
+	<iostream>
+	<string>
+
+1663855607 source:c:\users\fmorgado\desktop\t1_22_09_2022\main.cpp
+	<iostream>
+	"Veiculo.h"
+	"Pessoa.h"
+
+1663855255 source:c:\users\fmorgado\desktop\t1_22_09_2022\src\pessoa.cpp
+	"Pessoa.h"
+
+1663855347 c:\users\fmorgado\desktop\t1_22_09_2022\include\pessoa.h
+	<iostream>
+	<string>
+
+1665681245 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\main.cpp
+	<iostream>
+	"Veiculo.h"
+	"Pessoa.h"
+	"Uteis.h"
+	"VLigeiro.h"
+	"VPesado.h"
+	"Bike.h"
+	"Gestao.h"
+
+1665681267 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\veiculo.h
+	<iostream>
+	<string>
+	<fstream>
+
+1664469881 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\pessoa.h
+	<iostream>
+	<string>
+
+1664469260 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\uteis.h
+	<iostream>
+	<string>
+
+1663855255 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\pessoa.cpp
+	"Pessoa.h"
+
+1665679038 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\veiculo.cpp
+	"Veiculo.h"
+
+1665680310 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\vligeiro.cpp
+	"VLigeiro.h"
+	"Uteis.h"
+
+1665680310 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\vligeiro.h
+	<Veiculo.h>
+
+1665681245 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\gestao.h
+	<iostream>
+	<list>
+	<string>
+	<fstream>
+	"Pessoa.h"
+	"Veiculo.h"
+
+1665679566 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\gestao.cpp
+	"Gestao.h"
+
+1665680310 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\vpesado.h
+	<Veiculo.h>
+
+1665680310 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\vpesado.cpp
+	"VPesado.h"
+
+1665680701 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\bike.h
+	<Veiculo.h>
+
+1665680310 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\bike.cpp
+	"Bike.h"
+
+1665677645 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\main.cpp
+	<iostream>
+	"Veiculo.h"
+	"Pessoa.h"
+	"Uteis.h"
+	"VLigeiro.h"
+	"VPesado.h"
+	"Bike.h"
+	"Gestao.h"
+
+1667930747 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\veiculo.h
+	<iostream>
+	<string>
+	<fstream>
+
+1664466281 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\pessoa.h
+	<iostream>
+	<string>
+
+1664465660 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\uteis.h
+	<iostream>
+	<string>
+
+1665676710 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\vligeiro.h
+	<Veiculo.h>
+
+1665676710 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\vpesado.h
+	<Veiculo.h>
+
+1665677101 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\bike.h
+	<Veiculo.h>
+
+1665677645 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\include\gestao.h
+	<iostream>
+	<list>
+	<string>
+	<fstream>
+	"Pessoa.h"
+	"Veiculo.h"
+
+1665676710 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\src\bike.cpp
+	"Bike.h"
+
+1665678128 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\src\gestao.cpp
+	"Gestao.h"
+
+1663851655 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\src\pessoa.cpp
+	"Pessoa.h"
+
+1665676710 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\src\vligeiro.cpp
+	"VLigeiro.h"
+	"Uteis.h"
+
+1665676710 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\src\vpesado.cpp
+	"VPesado.h"
+
+1667930757 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\teoricas\t1_22_09_2022\src\veiculo.cpp
+	"Veiculo.h"
+

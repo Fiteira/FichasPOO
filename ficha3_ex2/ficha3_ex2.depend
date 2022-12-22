@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1666103460 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\main.cpp
+	<iostream>
+	<time.h>
+	"Banco.h"
+
+1666103518 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\include\banco.h
+	<iostream>
+	<string>
+	<list>
+	"Pessoa.h"
+	"Conta.h"
+
+1666000001 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\include\pessoa.h
+	<iostream>
+	<string>
+	<list>
+
+1666099696 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\include\conta.h
+	<iostream>
+	<string>
+	<list>
+	"Pessoa.h"
+
+1666104677 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\src\banco.cpp
+	"Banco.h"
+
+1666103088 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\src\pessoa.cpp
+	"Pessoa.h"
+
+1666103116 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha3_ex2\src\conta.cpp
+	"Conta.h"
+

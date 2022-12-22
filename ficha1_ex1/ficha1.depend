@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1664180458 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha1\src\ordenacao.cpp
+	"Ordenacao.h"
+
+1664286965 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha1\include\ordenacao.h
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+
+1664286281 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha1\main.cpp
+	"Uteis.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1664286121 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha1\include\uteis.h
+	<iostream>
+	<string>
+	<cstdlib>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1665497670 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha2\main.cpp
+	<iostream>
+	"Gestao.h"
+
+1665393980 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha2\include\gestao.h
+	<iostream>
+	<list>
+	<map>
+	"Pessoa.h"
+
+1665496216 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha2\include\pessoa.h
+	<iostream>
+	<string>
+
+1665496384 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha2\src\pessoa.cpp
+	"Pessoa.h"
+	<fstream>
+
+1665511753 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha2\src\gestao.cpp
+	"Gestao.h"
+	"Pessoa.h"
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+

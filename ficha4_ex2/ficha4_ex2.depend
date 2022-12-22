@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1666704454 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha4_ex2\src\imagem.cpp
+	"Imagem.h"
+
+1666704271 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha4_ex2\include\imagem.h
+	<string>
+	"PixelRGB.h"
+
+1666705148 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha4_ex2\include\pixelrgb.h
+	<iostream>
+
+1666705110 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha4_ex2\src\pixelrgb.cpp
+	"PixelRGB.h"
+
+1666604822 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha4_ex2\main.cpp
+	<iostream>
+

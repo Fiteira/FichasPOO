@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1667209240 source:c:\users\fmorgado\desktop\ficha5_aquario\src\aquario.cpp
+	"Aquario.h"
+
+1667209123 c:\users\fmorgado\desktop\ficha5_aquario\include\aquario.h
+	<iostream>
+	<string>
+	<list>
+	"Peixe.h"
+
+1667209691 c:\users\fmorgado\desktop\ficha5_aquario\include\peixe.h
+	<iostream>
+	<string>
+
+1667209775 source:c:\users\fmorgado\desktop\ficha5_aquario\src\peixe.cpp
+	"Peixe.h"
+	"Aquario.h"
+
+1667208582 source:c:\users\fmorgado\desktop\ficha5_aquario\main.cpp
+	<iostream>
+	"Peixe.h"
+	"Aquario.h"
+
+1667213724 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\main.cpp
+	<iostream>
+	"Peixe.h"
+	"Aquario.h"
+	<time.h>
+
+1667213583 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\include\peixe.h
+	<iostream>
+	<string>
+
+1667212538 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\include\aquario.h
+	<iostream>
+	<string>
+	<list>
+	"Peixe.h"
+
+1667213425 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\src\aquario.cpp
+	"Aquario.h"
+	"Uteis.h"
+
+1667213552 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\src\peixe.cpp
+	"Peixe.h"
+	"Uteis.h"
+	"Aquario.h"
+
+1667212860 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\include\uteis.h
+	<iostream>
+	<string>
+	<list>
+	<time.h>
+	<math.h>
+	<unistd.h>
+
+1667210989 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\ficha5\src\uteis.cpp
+	"Uteis.h"
+
