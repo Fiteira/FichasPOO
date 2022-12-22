@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668102089 source:c:\users\fmorgado\desktop\poo_t_03_11_2022\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<string>
+	<list>
+

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1666286231 source:c:\users\fmorgado\desktop\t_20_10_2022\main.cpp
+	<iostream>
+	"Gestao.h"
+
+1666283287 source:c:\users\fmorgado\desktop\t_20_10_2022\src\admin.cpp
+	"Admin.h"
+
+1666283870 c:\users\fmorgado\desktop\t_20_10_2022\include\admin.h
+	<User.h>
+
+1666283827 c:\users\fmorgado\desktop\t_20_10_2022\include\user.h
+	<iostream>
+	<string>
+
+1666286414 source:c:\users\fmorgado\desktop\t_20_10_2022\src\gestao.cpp
+	"Gestao.h"
+
+1666285438 c:\users\fmorgado\desktop\t_20_10_2022\include\gestao.h
+	<iostream>
+	<string>
+	<list>
+	"Admin.h"
+	"Normal.h"
+	"Visitante.h"
+	"MEletrico.h"
+	"MCombustao.h"
+
+1666283893 c:\users\fmorgado\desktop\t_20_10_2022\include\normal.h
+	<User.h>
+
+1666283348 c:\users\fmorgado\desktop\t_20_10_2022\include\visitante.h
+	<User.h>
+
+1666286203 c:\users\fmorgado\desktop\t_20_10_2022\include\meletrico.h
+	<Motor.h>
+
+1666286203 c:\users\fmorgado\desktop\t_20_10_2022\include\motor.h
+	<iostream>
+	<string>
+
+1666286203 c:\users\fmorgado\desktop\t_20_10_2022\include\mcombustao.h
+	<Motor.h>
+
+1666286258 source:c:\users\fmorgado\desktop\t_20_10_2022\src\motor.cpp
+	"Motor.h"
+	"Gestao.h"
+
+1666283332 source:c:\users\fmorgado\desktop\t_20_10_2022\src\normal.cpp
+	"Normal.h"
+
+1666283267 source:c:\users\fmorgado\desktop\t_20_10_2022\src\user.cpp
+	"User.h"
+
+1666283348 source:c:\users\fmorgado\desktop\t_20_10_2022\src\visitante.cpp
+	"Visitante.h"
+
+1666286203 source:c:\users\fmorgado\desktop\t_20_10_2022\src\mcombustao.cpp
+	"MCombustao.h"
+
+1666286203 source:c:\users\fmorgado\desktop\t_20_10_2022\src\meletrico.cpp
+	"MEletrico.h"
+

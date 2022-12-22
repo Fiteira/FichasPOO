@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666888277 source:c:\users\fmorgado\desktop\exemplo\main.cpp
+	<iostream>
+	<string>
+
+1648636421 source:c:\users\fmorgado\desktop\exemplo\src\people.cpp
+	"People.h"
+
+1648636316 c:\users\fmorgado\desktop\exemplo\include\people.h
+

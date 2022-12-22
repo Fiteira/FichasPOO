@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1663854204 source:c:\users\fmorgado\desktop\t1_22_09_2022\src\veiculo.cpp
+	"Veiculo.h"
+
+1663854345 c:\users\fmorgado\desktop\t1_22_09_2022\include\veiculo.h
+	<iostream>
+	<string>
+
+1663855607 source:c:\users\fmorgado\desktop\t1_22_09_2022\main.cpp
+	<iostream>
+	"Veiculo.h"
+	"Pessoa.h"
+
+1663855255 source:c:\users\fmorgado\desktop\t1_22_09_2022\src\pessoa.cpp
+	"Pessoa.h"
+
+1663855347 c:\users\fmorgado\desktop\t1_22_09_2022\include\pessoa.h
+	<iostream>
+	<string>
+
+1665076439 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\main.cpp
+	<iostream>
+	"Veiculo.h"
+	"Pessoa.h"
+	"Uteis.h"
+	"VLigeiro.h"
+	"VPesado.h"
+	"Gestao.h"
+
+1665076630 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\veiculo.h
+	<iostream>
+	<string>
+
+1664469881 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\pessoa.h
+	<iostream>
+	<string>
+
+1664469260 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\uteis.h
+	<iostream>
+	<string>
+
+1663855255 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\pessoa.cpp
+	"Pessoa.h"
+
+1664469454 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\veiculo.cpp
+	"Veiculo.h"
+
+1665075226 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\vligeiro.cpp
+	"VLigeiro.h"
+	"Uteis.h"
+
+1664471561 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\vligeiro.h
+	<Veiculo.h>
+
+1665073781 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\gestao.h
+	<iostream>
+	<list>
+	<string>
+	"Pessoa.h"
+	"Veiculo.h"
+
+1665075226 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\gestao.cpp
+	"Gestao.h"
+
+1665075573 c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\include\vpesado.h
+	<Veiculo.h>
+
+1665076197 source:c:\users\fmorgado\downloads\t1_22_09_2022\t1_22_09_2022\src\vpesado.cpp
+	"VPesado.h"
+

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1668421963 source:c:\users\fmorgado\desktop\proj_xml\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+
+1668450345 source:c:\users\fmorgado\dropbox\estv-ipv\aulas-estv\2022-2023\poo_ei\trabalho-pratico\base_proj_xml\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+
+1668442633 source:c:\users\fmorgado\dropbox\estv-ipv\aulas-estv\2022-2023\base_proj_xml\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+
+1668450345 source:d:\dropbox\estv-ipv\aulas-estv\2022-2023\poo_ei\trabalho-pratico\base_proj_xml\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+
+1668761191 source:c:\users\fmorgado\dropbox\estv-ipv\aulas-estv\2022-2023\base_proj_xml_alunos\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+

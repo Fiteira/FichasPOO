@@ -1,0 +1,15 @@
+Exercício Fábrica
+O Problema é: Uma Fábrica/Empresa...
+- tem vários tipos de User (Admin, Normal e Visitante)
+- tem vários tipos de Motores (Elétricos, Combustão e de Indução!!!!)
+- Cada tipo de utilizador tem a sua política (ações que pode fazer!)
+    - Admin (Pode Add, Remover, Listar)
+    - Normal (Pode Add e Listar)
+    - Visitante (Pode Listar)
+Na classe motor existe um método RUN; START e STOP, EStouQuente, depois cada descendente pode re-implementar!
+Quando um motor está muito quente, avisa o Gestor.
+O Gestor (objeto da classe Gestao) tem:
+    - USER atual;
+    - uma lista de USER;
+    - uma lista de MOTOR (todos os motores);
+    - e para saber os que estão muito quentes, tem uma lista de MOTOR LMQuentes.

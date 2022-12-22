@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619593115 source:c:\users\josé morgado\desktop\proj_exceptions\main.cpp
+	<iostream>
+	<exception>
+	<math.h>
+
+1668706719 source:c:\users\fmorgado\dropbox\estv-ipv\aulas-estv\2022-2023\poo_ei\proj_exceptions\main.cpp
+	<iostream>
+	<exception>
+	<math.h>
+	<vector>
+	<fstream>
+
