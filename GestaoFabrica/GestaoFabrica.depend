@@ -1,0 +1,358 @@
+# depslib dependency file v1.0
+1671446110 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\main.cpp
+	<iostream>
+	<sstream>
+	<ctime>
+	"Fabrica.h"
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\admin.cpp
+	"Admin.h"
+
+1671376787 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\admin.h
+	<User.h>
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\user.h
+	<iostream>
+	<string>
+
+1671450622 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\fabrica.cpp
+	"Fabrica.h"
+	"Uteis.h"
+	<conio.h>
+	<algorithm>
+	<string.h>
+	"rapidxml.hpp"
+	"XMWriter.h"
+
+1671451196 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\fabrica.h
+	<iostream>
+	<string>
+	<list>
+	"User.h"
+	"Admin.h"
+	"Normal.h"
+	"Visitante.h"
+	"Motor.h"
+	"MCombustao.h"
+	"MEletrico.h"
+	"MInducao.h"
+	"Sensor.h"
+	"Sfogo.h"
+	"Sluz.h"
+	"Smissel.h"
+	"Stemperatura.h"
+	"Objetos.h"
+	"XML.h"
+	"RelogioFabrica.h"
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\mcombustao.cpp
+	"MCombustao.h"
+	"Fabrica.h"
+
+1671376787 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\mcombustao.h
+	"Motor.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\motor.h
+	<iostream>
+	<string>
+	<vector>
+	"Objetos.h"
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\meletrico.cpp
+	"MEletrico.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\meletrico.h
+	"Motor.h"
+
+1670797010 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\mindocao.cpp
+	"MIndocao.h"
+	"Fabrica.h"
+
+1670796425 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\mindocao.h
+	"Motor.h"
+
+1671445292 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\motor.cpp
+	"Motor.h"
+	"Fabrica.h"
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\normal.cpp
+	"Normal.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\normal.h
+	<iostream>
+	<string>
+	<User.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\sensor.cpp
+	"Sensor.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\sensor.h
+	"Objetos.h"
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\sfogo.cpp
+	"Sfogo.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\sfogo.h
+	<Sensor.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\smissel.cpp
+	"Smissel.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\smissel.h
+	<Sensor.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\stemperatura.cpp
+	"Stemperatura.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\stemperatura.h
+	<Sensor.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\user.cpp
+	"User.h"
+
+1667917403 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\uteis.cpp
+	"Uteis.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\uteis.h
+	<iostream>
+	<string>
+	<sstream>
+	<list>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<unistd.h>
+	<conio.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\visitante.cpp
+	"Visitante.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\visitante.h
+	<User.h>
+
+1671318837 source:c:\users\leand\desktop\gestaofabrica\main.cpp
+	<iostream>
+	<sstream>
+	<ctime>
+	"Fabrica.h"
+
+1671198960 source:c:\users\leand\desktop\gestaofabrica\src\admin.cpp
+	"Admin.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\admin.h
+	<User.h>
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\user.h
+	<iostream>
+	<string>
+
+1671318510 source:c:\users\leand\desktop\gestaofabrica\src\fabrica.cpp
+	"Fabrica.h"
+	"Uteis.h"
+	<conio.h>
+	<algorithm>
+	<string.h>
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\fabrica.h
+	<iostream>
+	<string>
+	<list>
+	"User.h"
+	"Admin.h"
+	"Normal.h"
+	"Visitante.h"
+	"Motor.h"
+	"MCombustao.h"
+	"MEletrico.h"
+	"MInducao.h"
+	"Sensor.h"
+	"Sfogo.h"
+	"Sluz.h"
+	"Smissel.h"
+	"Stemperatura.h"
+	"Objetos.h"
+	"XML.h"
+	"RelogioFabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\motor.h
+	<iostream>
+	<string>
+	<vector>
+	"Objetos.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\objetos.h
+	<iostream>
+	<string>
+	"Uteis.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\sensor.h
+	"Objetos.h"
+
+1671318918 source:c:\users\leand\desktop\gestaofabrica\src\mcombustao.cpp
+	"MCombustao.h"
+	"Fabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\mcombustao.h
+	"Motor.h"
+
+1671318927 source:c:\users\leand\desktop\gestaofabrica\src\meletrico.cpp
+	"MEletrico.h"
+	"Fabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\meletrico.h
+	"Motor.h"
+
+1670590134 source:c:\users\leand\desktop\gestaofabrica\src\mindocao.cpp
+	"MIndocao.h"
+
+1670590134 c:\users\leand\desktop\gestaofabrica\include\mindocao.h
+	"Motor.h"
+
+1671203677 source:c:\users\leand\desktop\gestaofabrica\src\motor.cpp
+	"Motor.h"
+	"Fabrica.h"
+
+1671204289 source:c:\users\leand\desktop\gestaofabrica\src\normal.cpp
+	"Normal.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\normal.h
+	<iostream>
+	<string>
+	<User.h>
+
+1671203511 source:c:\users\leand\desktop\gestaofabrica\src\sensor.cpp
+	"Sensor.h"
+	"Fabrica.h"
+
+1671203744 source:c:\users\leand\desktop\gestaofabrica\src\sfogo.cpp
+	"Sfogo.h"
+	"Fabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\sfogo.h
+	<Sensor.h>
+
+1671204202 source:c:\users\leand\desktop\gestaofabrica\src\smissel.cpp
+	"Smissel.h"
+	"Fabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\smissel.h
+	<Sensor.h>
+
+1671318198 source:c:\users\leand\desktop\gestaofabrica\src\stemperatura.cpp
+	"Stemperatura.h"
+	"Fabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\stemperatura.h
+	<Sensor.h>
+
+1671204250 source:c:\users\leand\desktop\gestaofabrica\src\user.cpp
+	"User.h"
+
+1671204272 source:c:\users\leand\desktop\gestaofabrica\src\visitante.cpp
+	"Visitante.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\visitante.h
+	<User.h>
+
+1671200039 source:c:\users\leand\desktop\gestaofabrica\src\objetos.cpp
+	"Objetos.h"
+
+1671197312 c:\users\leand\desktop\gestaofabrica\include\uteis.h
+	<iostream>
+	<string>
+	<sstream>
+	<list>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<unistd.h>
+	<conio.h>
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\objetos.h
+	<iostream>
+	<string>
+	"Uteis.h"
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\objetos.cpp
+	"Objetos.h"
+
+1668464158 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\xml.cpp
+	"XML.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\xml.h
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\xml.h
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+
+1668718976 source:c:\users\leand\desktop\gestaofabrica\src\xml.cpp
+	"XML.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\relogiofabrica.h
+	<iostream>
+	<time.h>
+
+1671198114 c:\users\leand\desktop\gestaofabrica\include\relogiofabrica.h
+	<iostream>
+	<time.h>
+
+1671204203 source:c:\users\leand\desktop\gestaofabrica\src\sluz.cpp
+	"Sluz.h"
+	"Fabrica.h"
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\sluz.h
+	<Sensor.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\sluz.cpp
+	"Sluz.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\sluz.h
+	<Sensor.h>
+
+1671376789 source:c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\src\minducao.cpp
+	"MInducao.h"
+	"Fabrica.h"
+
+1671376788 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\minducao.h
+	"Motor.h"
+
+1670882643 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\menu.h
+
+1671140651 c:\users\leand\desktop\gestaofabrica\include\minducao.h
+	"Motor.h"
+
+1671318934 source:c:\users\leand\desktop\gestaofabrica\src\minducao.cpp
+	"MInducao.h"
+	"Fabrica.h"
+
+1671447902 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1671447902 c:\users\leandro dias\onedrive\ambiente de trabalho\eng. informática-estgv\2ano\1sem\poo\gestaofabrica\include\xmwriter.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	"XML.h"
+
